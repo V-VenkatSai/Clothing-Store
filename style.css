@@ -272,6 +272,8 @@ p {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  text-align: center;
+  gap:12px;
 }
 
 #off-banner h4 {
@@ -484,6 +486,10 @@ span {
 #footer .download img {
   border: 1px solid #08817969;
   border-radius: 7px;
+}
+
+#footer .socials{
+  margin:10px 0;
 }
 
 .socials i {
